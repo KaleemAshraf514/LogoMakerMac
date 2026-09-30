@@ -1,0 +1,197 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B3CADAD70E116E3D26333651 /* LogoMakerMacApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3112FFB2993FE9B314359AEB /* LogoMakerMacApp.swift */; };
+		E45B334056324ED5D2A3098C /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EDD66A675438B9C79FB2FC /* AppTheme.swift */; };
+		6D82BA819EAE1DC578619430 /* TemplateModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B25A246CEE72E0EF9A813B /* TemplateModels.swift */; };
+		2C04B7E0F42F4B7522158095 /* TemplateService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC374F5CB5FA9BD929C59D1D /* TemplateService.swift */; };
+		70F5B7C34262E52F669AD9E1 /* FavouritesStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E8909B1D2F40E0167F58B3 /* FavouritesStore.swift */; };
+		92BAEBA240559432D7ECCFD0 /* AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7529509BD1BC58FAC4995A7F /* AppStore.swift */; };
+		36814E4087BF6BB7C8784712 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A303844CB286122E62700A16 /* RootView.swift */; };
+		D6D861650C83A7B8BB124971 /* SidebarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0608E6E5373C3CD59CB8F7D /* SidebarView.swift */; };
+		AFC14089C72996B8144E9F84 /* CommonViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B072AA13749B6A98CBC72B /* CommonViews.swift */; };
+		0C6CFFAC53FE75462141839E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258FBE2174573440CDB1C5B9 /* HomeView.swift */; };
+		EC055FD93F68DE43584BDC8A /* TemplateGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2539802951ED73BD0E02897A /* TemplateGalleryView.swift */; };
+		9955869360486A9D0835AB52 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7242A9B5E0BCF09B4C367F25 /* SearchView.swift */; };
+		FC4FF579C48244728F23B715 /* CreateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A40E92E9EA5DD80619E8247 /* CreateView.swift */; };
+		969459E156C350395D7489AF /* FavouritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5073503B6370DB55C2617F02 /* FavouritesView.swift */; };
+		74DEA1E005E3426E54CC0049 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 326A256218B982DFE347CF75 /* Assets.xcassets */; };
+		ED059282153D5A4BA077B95E /* NewLogoMakerIOS-decoded.json in Resources */ = {isa = PBXBuildFile; fileRef = 3CC991A36EB8F7C3061CE336 /* NewLogoMakerIOS-decoded.json */; };
+		58532981D974B473F3CB43D1 /* SVGModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6622007CC57F471AC7DA187C /* SVGModels.swift */; };
+		6EC076AE1C3E0290EC411C44 /* SVGParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9A82795976CBA57CA3820C /* SVGParser.swift */; };
+		1CD80FC47F38A5709390763C /* SVGTransformParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114AE0E85BC60CAC24E3467F /* SVGTransformParser.swift */; };
+		E5282BC9B920ECF101A15CAB /* SVGCanvasRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492D62ECFEE787A2851B5852 /* SVGCanvasRepresentable.swift */; };
+		661D307A0EFFCB3A63B95C14 /* SVGCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE493B6FEC58233FBB603BA5 /* SVGCanvasView.swift */; };
+		F3E12029FF61BF591B6A74E3 /* SVGPathParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A14B7FC14DFB56FB35B08D /* SVGPathParser.swift */; };
+		B84BC4B79A278F1E9CA575B6 /* SVGEditorStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7E6D844BC618FFA4AFF642 /* SVGEditorStore.swift */; };
+		E84BFE9A0E3135A52AD8D9E1 /* InspectorPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D9CE9B557DF9A173D3877F /* InspectorPanel.swift */; };
+		847BE987DF71BC47BD475D51 /* LayersPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA05716A2885E9FA725569F5 /* LayersPanel.swift */; };
+		D22C860E5D8A0A47F66EF3BD /* SVGEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42CB51CCBF9E7FC86A5D915 /* SVGEditorView.swift */; };
+		A30895DF52CDC63492AA22F4 /* Logos-3D-38.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3AC4C7DB0A5CADD1EBFE069D /* Logos-3D-38.svg */; };
+		7004795CE425711D29694B5C /* Logos-3D-40.svg in Resources */ = {isa = PBXBuildFile; fileRef = C63DFCC261D998E6DDDAFFA5 /* Logos-3D-40.svg */; };
+		9FCD132406126D6B78953AF4 /* Logos-Alphabets-50.svg in Resources */ = {isa = PBXBuildFile; fileRef = E59809DDEEEB1D57AB60C781 /* Logos-Alphabets-50.svg */; };
+		6298EC4E9CDA4EDAE3588A8A /* Logos-Alphabets-51.svg in Resources */ = {isa = PBXBuildFile; fileRef = D794E5D949431618EB34E610 /* Logos-Alphabets-51.svg */; };
+		D31382A7E39922693E8AC968 /* Logos-Quran-38.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9652100A62F5D2B2448DA5AC /* Logos-Quran-38.svg */; };
+		E2379014F239955DBF2A2F6F /* Logos-Quran-39.svg in Resources */ = {isa = PBXBuildFile; fileRef = EBF4B37A494A0CC8E663B43C /* Logos-Quran-39.svg */; };
+		9C732804CB535082EA287E4D /* Logos-Quran-40.svg in Resources */ = {isa = PBXBuildFile; fileRef = 21AA2CF0DDB7CFD76386D8D2 /* Logos-Quran-40.svg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3112FFB2993FE9B314359AEB /* LogoMakerMacApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LogoMakerMacApp.swift"; sourceTree = "<group>"; };
+		B7EDD66A675438B9C79FB2FC /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Theme/AppTheme.swift"; sourceTree = "<group>"; };
+		06B25A246CEE72E0EF9A813B /* TemplateModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Models/TemplateModels.swift"; sourceTree = "<group>"; };
+		FC374F5CB5FA9BD929C59D1D /* TemplateService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Services/TemplateService.swift"; sourceTree = "<group>"; };
+		B5E8909B1D2F40E0167F58B3 /* FavouritesStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Services/FavouritesStore.swift"; sourceTree = "<group>"; };
+		7529509BD1BC58FAC4995A7F /* AppStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Services/AppStore.swift"; sourceTree = "<group>"; };
+		A303844CB286122E62700A16 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/RootView.swift"; sourceTree = "<group>"; };
+		F0608E6E5373C3CD59CB8F7D /* SidebarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/SidebarView.swift"; sourceTree = "<group>"; };
+		45B072AA13749B6A98CBC72B /* CommonViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/CommonViews.swift"; sourceTree = "<group>"; };
+		258FBE2174573440CDB1C5B9 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/HomeView.swift"; sourceTree = "<group>"; };
+		2539802951ED73BD0E02897A /* TemplateGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/TemplateGalleryView.swift"; sourceTree = "<group>"; };
+		7242A9B5E0BCF09B4C367F25 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/SearchView.swift"; sourceTree = "<group>"; };
+		6A40E92E9EA5DD80619E8247 /* CreateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/CreateView.swift"; sourceTree = "<group>"; };
+		5073503B6370DB55C2617F02 /* FavouritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/FavouritesView.swift"; sourceTree = "<group>"; };
+		326A256218B982DFE347CF75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		3CC991A36EB8F7C3061CE336 /* NewLogoMakerIOS-decoded.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "Resources/NewLogoMakerIOS-decoded.json"; sourceTree = "<group>"; };
+		CD5D13887F2D2C3121A08606 /* LogoMakerMac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LogoMakerMac.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6622007CC57F471AC7DA187C /* SVGModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Models/SVGModels.swift"; sourceTree = "<group>"; };
+		AF9A82795976CBA57CA3820C /* SVGParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Parsing/SVGParser.swift"; sourceTree = "<group>"; };
+		114AE0E85BC60CAC24E3467F /* SVGTransformParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Parsing/SVGTransformParser.swift"; sourceTree = "<group>"; };
+		492D62ECFEE787A2851B5852 /* SVGCanvasRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Rendering/SVGCanvasRepresentable.swift"; sourceTree = "<group>"; };
+		FE493B6FEC58233FBB603BA5 /* SVGCanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Rendering/SVGCanvasView.swift"; sourceTree = "<group>"; };
+		01A14B7FC14DFB56FB35B08D /* SVGPathParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Rendering/SVGPathParser.swift"; sourceTree = "<group>"; };
+		DD7E6D844BC618FFA4AFF642 /* SVGEditorStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Store/SVGEditorStore.swift"; sourceTree = "<group>"; };
+		14D9CE9B557DF9A173D3877F /* InspectorPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Views/InspectorPanel.swift"; sourceTree = "<group>"; };
+		AA05716A2885E9FA725569F5 /* LayersPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Views/LayersPanel.swift"; sourceTree = "<group>"; };
+		D42CB51CCBF9E7FC86A5D915 /* SVGEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SVGEditor/Views/SVGEditorView.swift"; sourceTree = "<group>"; };
+		3AC4C7DB0A5CADD1EBFE069D /* Logos-3D-38.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = "SVGEditor/Resources/Logos-3D-38.svg"; sourceTree = "<group>"; };
+		C63DFCC261D998E6DDDAFFA5 /* Logos-3D-40.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = "SVGEditor/Resources/Logos-3D-40.svg"; sourceTree = "<group>"; };
+		E59809DDEEEB1D57AB60C781 /* Logos-Alphabets-50.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = "SVGEditor/Resources/Logos-Alphabets-50.svg"; sourceTree = "<group>"; };
+		D794E5D949431618EB34E610 /* Logos-Alphabets-51.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = "SVGEditor/Resources/Logos-Alphabets-51.svg"; sourceTree = "<group>"; };
+		9652100A62F5D2B2448DA5AC /* Logos-Quran-38.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = "SVGEditor/Resources/Logos-Quran-38.svg"; sourceTree = "<group>"; };
+		EBF4B37A494A0CC8E663B43C /* Logos-Quran-39.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = "SVGEditor/Resources/Logos-Quran-39.svg"; sourceTree = "<group>"; };
+		21AA2CF0DDB7CFD76386D8D2 /* Logos-Quran-40.svg */ = {isa = PBXFileReference; lastKnownFileType = image.svg; path = "SVGEditor/Resources/Logos-Quran-40.svg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9020886073D99297D2299EE1 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F82213F9C1A5B7D7234DC812 = {isa = PBXGroup; children = (A2151FDC3D3928C02895D2EC /* LogoMakerMac */, 8E7FFD9186B4123732193CE4 /* Products */, ); sourceTree = "<group>"; };
+		A2151FDC3D3928C02895D2EC /* LogoMakerMac */ = {isa = PBXGroup; children = (
+			3112FFB2993FE9B314359AEB /* LogoMakerMacApp.swift */,
+			B7EDD66A675438B9C79FB2FC /* AppTheme.swift */,
+			06B25A246CEE72E0EF9A813B /* TemplateModels.swift */,
+			FC374F5CB5FA9BD929C59D1D /* TemplateService.swift */,
+			B5E8909B1D2F40E0167F58B3 /* FavouritesStore.swift */,
+			7529509BD1BC58FAC4995A7F /* AppStore.swift */,
+			A303844CB286122E62700A16 /* RootView.swift */,
+			F0608E6E5373C3CD59CB8F7D /* SidebarView.swift */,
+			45B072AA13749B6A98CBC72B /* CommonViews.swift */,
+			258FBE2174573440CDB1C5B9 /* HomeView.swift */,
+			2539802951ED73BD0E02897A /* TemplateGalleryView.swift */,
+			7242A9B5E0BCF09B4C367F25 /* SearchView.swift */,
+			6A40E92E9EA5DD80619E8247 /* CreateView.swift */,
+			5073503B6370DB55C2617F02 /* FavouritesView.swift */,
+			326A256218B982DFE347CF75 /* Assets.xcassets */,
+			3CC991A36EB8F7C3061CE336 /* NewLogoMakerIOS-decoded.json */,
+			6622007CC57F471AC7DA187C /* SVGModels.swift */,
+			AF9A82795976CBA57CA3820C /* SVGParser.swift */,
+			114AE0E85BC60CAC24E3467F /* SVGTransformParser.swift */,
+			492D62ECFEE787A2851B5852 /* SVGCanvasRepresentable.swift */,
+			FE493B6FEC58233FBB603BA5 /* SVGCanvasView.swift */,
+			01A14B7FC14DFB56FB35B08D /* SVGPathParser.swift */,
+			DD7E6D844BC618FFA4AFF642 /* SVGEditorStore.swift */,
+			14D9CE9B557DF9A173D3877F /* InspectorPanel.swift */,
+			AA05716A2885E9FA725569F5 /* LayersPanel.swift */,
+			D42CB51CCBF9E7FC86A5D915 /* SVGEditorView.swift */,
+			3AC4C7DB0A5CADD1EBFE069D /* Logos-3D-38.svg */,
+			C63DFCC261D998E6DDDAFFA5 /* Logos-3D-40.svg */,
+			E59809DDEEEB1D57AB60C781 /* Logos-Alphabets-50.svg */,
+			D794E5D949431618EB34E610 /* Logos-Alphabets-51.svg */,
+			9652100A62F5D2B2448DA5AC /* Logos-Quran-38.svg */,
+			EBF4B37A494A0CC8E663B43C /* Logos-Quran-39.svg */,
+			21AA2CF0DDB7CFD76386D8D2 /* Logos-Quran-40.svg */,
+		); path = LogoMakerMac; sourceTree = "<group>"; };
+		8E7FFD9186B4123732193CE4 /* Products */ = {isa = PBXGroup; children = (CD5D13887F2D2C3121A08606 /* LogoMakerMac.app */, ); name = Products; sourceTree = "<group>"; };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F36CF7763F4FF0186C92085A /* LogoMakerMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 248A25B7E30719A073AC77A0 /* Build configuration list for PBXNativeTarget "LogoMakerMac" */;
+			buildPhases = (3A708C3855D32C70EAB9D2F1 /* Sources */, 9020886073D99297D2299EE1 /* Frameworks */, E562270BEEA3634949C17E1C /* Resources */, );
+			buildRules = (); dependencies = (); name = LogoMakerMac; productName = LogoMakerMac;
+			productReference = CD5D13887F2D2C3121A08606 /* LogoMakerMac.app */; productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C062A1ED1D6DDC34AAEBC82C /* Project object */ = {isa = PBXProject; attributes = {BuildIndependentTargetsInParallel = 1; LastSwiftUpdateCheck = 1600; LastUpgradeCheck = 1600; TargetAttributes = {F36CF7763F4FF0186C92085A = {CreatedOnToolsVersion = 16.0;};};};
+			buildConfigurationList = EA6F7495D92FFB23CBB230FC /* Build configuration list for PBXProject "LogoMakerMac" */; compatibilityVersion = "Xcode 14.0"; developmentRegion = en; hasScannedForEncodings = 0; knownRegions = (en, Base, );
+			mainGroup = F82213F9C1A5B7D7234DC812; productRefGroup = 8E7FFD9186B4123732193CE4 /* Products */; projectDirPath = ""; projectRoot = ""; targets = (F36CF7763F4FF0186C92085A /* LogoMakerMac */, ); };
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E562270BEEA3634949C17E1C /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (
+			74DEA1E005E3426E54CC0049 /* Assets.xcassets in Resources */,
+			ED059282153D5A4BA077B95E /* NewLogoMakerIOS-decoded.json in Resources */,
+			A30895DF52CDC63492AA22F4 /* Logos-3D-38.svg in Resources */,
+			7004795CE425711D29694B5C /* Logos-3D-40.svg in Resources */,
+			9FCD132406126D6B78953AF4 /* Logos-Alphabets-50.svg in Resources */,
+			6298EC4E9CDA4EDAE3588A8A /* Logos-Alphabets-51.svg in Resources */,
+			D31382A7E39922693E8AC968 /* Logos-Quran-38.svg in Resources */,
+			E2379014F239955DBF2A2F6F /* Logos-Quran-39.svg in Resources */,
+			9C732804CB535082EA287E4D /* Logos-Quran-40.svg in Resources */,
+		); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3A708C3855D32C70EAB9D2F1 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (
+			B3CADAD70E116E3D26333651 /* LogoMakerMacApp.swift in Sources */,
+			E45B334056324ED5D2A3098C /* AppTheme.swift in Sources */,
+			6D82BA819EAE1DC578619430 /* TemplateModels.swift in Sources */,
+			2C04B7E0F42F4B7522158095 /* TemplateService.swift in Sources */,
+			70F5B7C34262E52F669AD9E1 /* FavouritesStore.swift in Sources */,
+			92BAEBA240559432D7ECCFD0 /* AppStore.swift in Sources */,
+			36814E4087BF6BB7C8784712 /* RootView.swift in Sources */,
+			D6D861650C83A7B8BB124971 /* SidebarView.swift in Sources */,
+			AFC14089C72996B8144E9F84 /* CommonViews.swift in Sources */,
+			0C6CFFAC53FE75462141839E /* HomeView.swift in Sources */,
+			EC055FD93F68DE43584BDC8A /* TemplateGalleryView.swift in Sources */,
+			9955869360486A9D0835AB52 /* SearchView.swift in Sources */,
+			FC4FF579C48244728F23B715 /* CreateView.swift in Sources */,
+			969459E156C350395D7489AF /* FavouritesView.swift in Sources */,
+			58532981D974B473F3CB43D1 /* SVGModels.swift in Sources */,
+			6EC076AE1C3E0290EC411C44 /* SVGParser.swift in Sources */,
+			1CD80FC47F38A5709390763C /* SVGTransformParser.swift in Sources */,
+			E5282BC9B920ECF101A15CAB /* SVGCanvasRepresentable.swift in Sources */,
+			661D307A0EFFCB3A63B95C14 /* SVGCanvasView.swift in Sources */,
+			F3E12029FF61BF591B6A74E3 /* SVGPathParser.swift in Sources */,
+			B84BC4B79A278F1E9CA575B6 /* SVGEditorStore.swift in Sources */,
+			E84BFE9A0E3135A52AD8D9E1 /* InspectorPanel.swift in Sources */,
+			847BE987DF71BC47BD475D51 /* LayersPanel.swift in Sources */,
+			D22C860E5D8A0A47F66EF3BD /* SVGEditorView.swift in Sources */,
+		); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5C45BDA8E74E3338929CCA83 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; SWIFT_VERSION = 5.0; GCC_OPTIMIZATION_LEVEL = 0; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; DEBUG_INFORMATION_FORMAT = dwarf; }; name = Debug; };
+		0315124531B15FA03D8B3731 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; SWIFT_VERSION = 5.0; SWIFT_COMPILATION_MODE = wholemodule; SWIFT_OPTIMIZATION_LEVEL = "-O"; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; }; name = Release; };
+		260A02CEAB6522AD08D6BAFD /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {CODE_SIGN_STYLE = Automatic; COMBINE_HIDPI_IMAGES = YES; CURRENT_PROJECT_VERSION = 1; ENABLE_HARDENED_RUNTIME = YES; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Logo Maker"; INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design"; MACOSX_DEPLOYMENT_TARGET = 13.0; MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.kaleem.logomakermac; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = macosx; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG; }; name = Debug; };
+		902B3AEC39826C769A86B746 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {CODE_SIGN_STYLE = Automatic; COMBINE_HIDPI_IMAGES = YES; CURRENT_PROJECT_VERSION = 1; ENABLE_HARDENED_RUNTIME = YES; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Logo Maker"; INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design"; MACOSX_DEPLOYMENT_TARGET = 13.0; MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.kaleem.logomakermac; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = macosx; SWIFT_EMIT_LOC_STRINGS = YES; }; name = Release; };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA6F7495D92FFB23CBB230FC /* Build configuration list for PBXProject "LogoMakerMac" */ = {isa = XCConfigurationList; buildConfigurations = (5C45BDA8E74E3338929CCA83 /* Debug */, 0315124531B15FA03D8B3731 /* Release */, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		248A25B7E30719A073AC77A0 /* Build configuration list for PBXNativeTarget "LogoMakerMac" */ = {isa = XCConfigurationList; buildConfigurations = (260A02CEAB6522AD08D6BAFD /* Debug */, 902B3AEC39826C769A86B746 /* Release */, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+	};
+	rootObject = C062A1ED1D6DDC34AAEBC82C /* Project object */;
+}

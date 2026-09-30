@@ -1,0 +1,3029 @@
+{
+    "AppData": {
+        "AppVersion": "1.0",
+        "Templates": [
+            {
+                "TemplatesVersion": "1.0",
+                "Categories": [
+                    {
+                        "Category_Display_Name": "Logos",
+                        "Category_S3_Name": "Logos",
+                        "Category_Aspect_Ratio": "1000:1000",
+                        "Category_Index": 0,
+                        "Free_Templates": 3,
+                        "isDoubleSided": false,
+                        "Category_Color": [
+                            "#28F5B5",
+                            "#265AF5"
+                        ],
+                        "Category_Free": false,
+                        "SubCategories": [
+                            {
+                                "Subcategory_DisplayName": "Quran",
+                                "Subcategory_S3_Name": "Quran",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 0,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Quran/Logos-Quran-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Henna",
+                                "Subcategory_S3_Name": "Henna",
+                                "Subcategory_Item_Count": 70,
+                                "SubCategory_Index": 1,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Henna/Logos-Henna-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hijab",
+                                "Subcategory_S3_Name": "Hijab",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 2,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Hijab/Logos-Hijab-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Laundry",
+                                "Subcategory_S3_Name": "Laundry",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 3,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Laundry/Logos-Laundry-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Massage And Spa",
+                                "Subcategory_S3_Name": "MassageAndSpa",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 4,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/MassageAndSpa/Logos-MassageAndSpa-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Neon",
+                                "Subcategory_S3_Name": "Neon",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 5,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Neon/Logos-Neon-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "NewYear",
+                                "Subcategory_S3_Name": "NewYear",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 6,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/NewYear/Logos-NewYear-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Night Club",
+                                "Subcategory_S3_Name": "NightClub",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 7,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/NightClub/Logos-NightClub-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Oil And gas",
+                                "Subcategory_S3_Name": "Oilandgas",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 8,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Oilandgas/Logos-Oilandgas-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Pegasus",
+                                "Subcategory_S3_Name": "Pegasus",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 9,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Pegasus/Logos-Pegasus-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Poultry",
+                                "Subcategory_S3_Name": "Poultry",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 10,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Poultry/Logos-Poultry-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Funny Sticker",
+                                "Subcategory_S3_Name": "FunnySticker",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 11,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/FunnySticker/Logos-FunnySticker-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Satellite",
+                                "Subcategory_S3_Name": "Satellite",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 12,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Satellite/Logos-Satellite-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Snooker",
+                                "Subcategory_S3_Name": "Snooker",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 13,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Snooker/Logos-Snooker-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Spartan",
+                                "Subcategory_S3_Name": "Spartan",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 14,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Spartan/Logos-Spartan-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Stickers",
+                                "Subcategory_S3_Name": "Stickers",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 15,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Stickers/Logos-Stickers-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Trading",
+                                "Subcategory_S3_Name": "Trading",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 16,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Trading/Logos-Trading-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Universe",
+                                "Subcategory_S3_Name": "Universe",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 17,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Universe/Logos-Universe-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Windows",
+                                "Subcategory_S3_Name": "Windows",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 18,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Windows/Logos-Windows-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Zodiac",
+                                "Subcategory_S3_Name": "Zodiac",
+                                "Subcategory_Item_Count": 24,
+                                "SubCategory_Index": 19,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Zodiac/Logos-Zodiac-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Alien",
+                                "Subcategory_S3_Name": "Alien",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 20,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Alien/Logos-Alien-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Alphabets",
+                                "Subcategory_S3_Name": "Alphabets",
+                                "Subcategory_Item_Count": 52,
+                                "SubCategory_Index": 21,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Alphabets/Logos-Alphabets-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Astronaut",
+                                "Subcategory_S3_Name": "Astronaut",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 22,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Astronaut/Logos-Astronaut-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Bitcoin",
+                                "Subcategory_S3_Name": "Bitcoin",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 23,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Bitcoin/Logos-Bitcoin-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Blood Bank",
+                                "Subcategory_S3_Name": "BloodBank",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 24,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/BloodBank/Logos-BloodBank-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cactus",
+                                "Subcategory_S3_Name": "Cactus",
+                                "Subcategory_Item_Count": 45,
+                                "SubCategory_Index": 25,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Cactus/Logos-Cactus-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Carpenter",
+                                "Subcategory_S3_Name": "Carpenter",
+                                "Subcategory_Item_Count": 45,
+                                "SubCategory_Index": 26,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Carpenter/Logos-Carpenter-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cctv",
+                                "Subcategory_S3_Name": "Cctv",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 27,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Cctv/Logos-Cctv-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Chinese Food",
+                                "Subcategory_S3_Name": "ChineseFood",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 28,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/ChineseFood/Logos-ChineseFood-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Clover",
+                                "Subcategory_S3_Name": "Clover",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 29,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Clover/Logos-Clover-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Coconut",
+                                "Subcategory_S3_Name": "Coconut",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 30,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Coconut/Logos-Coconut-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Comedy Show",
+                                "Subcategory_S3_Name": "ComedyShow",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 31,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/ComedyShow/Logos-ComedyShow-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Culture",
+                                "Subcategory_S3_Name": "Culture",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 32,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Culture/Logos-Culture-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Dj",
+                                "Subcategory_S3_Name": "Dj",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 33,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Dj/Logos-Dj-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "DNA",
+                                "Subcategory_S3_Name": "DNA",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 34,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/DNA/Logos-DNA-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Dragon",
+                                "Subcategory_S3_Name": "Dragon",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 35,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Dragon/Logos-Dragon-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Driving",
+                                "Subcategory_S3_Name": "Driving",
+                                "Subcategory_Item_Count": 45,
+                                "SubCategory_Index": 36,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Driving/Logos-Driving-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Earth",
+                                "Subcategory_S3_Name": "Earth",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 37,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Earth/Logos-Earth-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Eid Mubarak",
+                                "Subcategory_S3_Name": "EidMubarak",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 38,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/EidMubarak/Logos-EidMubarak-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Equestrian",
+                                "Subcategory_S3_Name": "Equestrian",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 39,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Equestrian/Logos-Equestrian-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Automotive",
+                                "Subcategory_S3_Name": "Automotive",
+                                "Subcategory_Item_Count": 55,
+                                "SubCategory_Index": 40,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Automotive/Logos-Automotive-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Barber",
+                                "Subcategory_S3_Name": "Barber",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 41,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Barber/Logos-Barber-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Beach",
+                                "Subcategory_S3_Name": "Beach",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 42,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Beach/Logos-Beach-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Beauty",
+                                "Subcategory_S3_Name": "Beauty",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 43,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Beauty/Logos-Beauty-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hidden Meaning",
+                                "Subcategory_S3_Name": "HiddenMeaning",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 44,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/HiddenMeaning/Logos-HiddenMeaning-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Black Friday",
+                                "Subcategory_S3_Name": "BlackFriday",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 45,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/BlackFriday/Logos-BlackFriday-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Home Furnishing",
+                                "Subcategory_S3_Name": "HomeFurnishing",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 46,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/HomeFurnishing/Logos-HomeFurnishing-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hospital",
+                                "Subcategory_S3_Name": "Hospital",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 47,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Hospital/Logos-Hospital-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Monogram",
+                                "Subcategory_S3_Name": "Monogram",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 48,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Monogram/Logos-Monogram-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Music",
+                                "Subcategory_S3_Name": "Music",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 49,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Music/Logos-Music-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "NGO",
+                                "Subcategory_S3_Name": "NGO",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 50,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/NGO/Logos-NGO-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Pet And Animal",
+                                "Subcategory_S3_Name": "PetAndAnimal",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 51,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/PetAndAnimal/Logos-PetAndAnimal-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Photography",
+                                "Subcategory_S3_Name": "Photography",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 52,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Photography/Logos-Photography-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Physical Fitness",
+                                "Subcategory_S3_Name": "PhysicalFitness",
+                                "Subcategory_Item_Count": 52,
+                                "SubCategory_Index": 53,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/PhysicalFitness/Logos-PhysicalFitness-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Ramadan",
+                                "Subcategory_S3_Name": "Ramadan",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 54,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Ramadan/Logos-Ramadan-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Real Estate",
+                                "Subcategory_S3_Name": "RealEstate",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 55,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/RealEstate/Logos-RealEstate-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Restaurants",
+                                "Subcategory_S3_Name": "Restaurants",
+                                "Subcategory_Item_Count": 35,
+                                "SubCategory_Index": 56,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Restaurants/Logos-Restaurants-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Security",
+                                "Subcategory_S3_Name": "Security",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 57,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Security/Logos-Security-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "3D",
+                                "Subcategory_S3_Name": "3D",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 58,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/3D/Logos-3D-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Advertising",
+                                "Subcategory_S3_Name": "Advertising",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 59,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Advertising/Logos-Advertising-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Agriculture",
+                                "Subcategory_S3_Name": "Agriculture",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 60,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Agriculture/Logos-Agriculture-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Ai",
+                                "Subcategory_S3_Name": "Ai",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 61,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Ai/Logos-Ai-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Architecture",
+                                "Subcategory_S3_Name": "Architecture",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 62,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Architecture/Logos-Architecture-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Art And Design",
+                                "Subcategory_S3_Name": "ArtAndDesign",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 63,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/ArtAndDesign/Logos-ArtAndDesign-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Birthday",
+                                "Subcategory_S3_Name": "Birthday",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 64,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Birthday/Logos-Birthday-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Brain",
+                                "Subcategory_S3_Name": "Brain",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 65,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Brain/Logos-Brain-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Childcare",
+                                "Subcategory_S3_Name": "Childcare",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 66,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Childcare/Logos-Childcare-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Chocolate",
+                                "Subcategory_S3_Name": "Chocolate",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 67,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Chocolate/Logos-Chocolate-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Christmas",
+                                "Subcategory_S3_Name": "Christmas",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 68,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Christmas/Logos-Christmas-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cleaning And Maintenance",
+                                "Subcategory_S3_Name": "CleaningAndMaintenance",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 69,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/CleaningAndMaintenance/Logos-CleaningAndMaintenance-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Clown",
+                                "Subcategory_S3_Name": "Clown",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 70,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Clown/Logos-Clown-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Coffee",
+                                "Subcategory_S3_Name": "Coffee",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 71,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Coffee/Logos-Coffee-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Communications",
+                                "Subcategory_S3_Name": "Communications",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 72,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Communications/Logos-Communications-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cowboy",
+                                "Subcategory_S3_Name": "Cowboy",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 73,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Cowboy/Logos-Cowboy-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Dance",
+                                "Subcategory_S3_Name": "Dance",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 74,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Dance/Logos-Dance-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Desert",
+                                "Subcategory_S3_Name": "Desert",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 75,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Desert/Logos-Desert-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Diamond",
+                                "Subcategory_S3_Name": "Diamond",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 76,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Diamond/Logos-Diamond-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Drone",
+                                "Subcategory_S3_Name": "Drone",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 77,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Drone/Logos-Drone-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Ecommerce",
+                                "Subcategory_S3_Name": "Ecommerce",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 78,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Ecommerce/Logos-Ecommerce-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Education",
+                                "Subcategory_S3_Name": "Education",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 79,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Education/Logos-Education-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Eye Care",
+                                "Subcategory_S3_Name": "EyeCare",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 80,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/EyeCare/Logos-EyeCare-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Factory",
+                                "Subcategory_S3_Name": "Factory",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 81,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Factory/Logos-Factory-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fashion",
+                                "Subcategory_S3_Name": "Fashion",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 82,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Fashion/Logos-Fashion-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fire",
+                                "Subcategory_S3_Name": "Fire",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 83,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Fire/Logos-Fire-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fishing",
+                                "Subcategory_S3_Name": "Fishing",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 84,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Fishing/Logos-Fishing-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Florist",
+                                "Subcategory_S3_Name": "Florist",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 85,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Florist/Logos-Florist-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Food And Drink",
+                                "Subcategory_S3_Name": "FoodAndDrink",
+                                "Subcategory_Item_Count": 52,
+                                "SubCategory_Index": 86,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/FoodAndDrink/Logos-FoodAndDrink-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Gaming",
+                                "Subcategory_S3_Name": "Gaming",
+                                "Subcategory_Item_Count": 100,
+                                "SubCategory_Index": 87,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Gaming/Logos-Gaming-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Halloween",
+                                "Subcategory_S3_Name": "Halloween",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 88,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Halloween/Logos-Halloween-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Heart",
+                                "Subcategory_S3_Name": "Heart",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 89,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Heart/Logos-Heart-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Herbal",
+                                "Subcategory_S3_Name": "Herbal",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 90,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Herbal/Logos-Herbal-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Honey Bee",
+                                "Subcategory_S3_Name": "HoneyBee",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 91,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/HoneyBee/Logos-HoneyBee-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Infinity",
+                                "Subcategory_S3_Name": "Infinity",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 92,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Infinity/Logos-Infinity-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Jewellery",
+                                "Subcategory_S3_Name": "Jewellery",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 93,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Jewellery/Logos-Jewellery-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Lab",
+                                "Subcategory_S3_Name": "Lab",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 94,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Lab/Logos-Lab-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Law And Attorney",
+                                "Subcategory_S3_Name": "LawAndAttorney",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 95,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/LawAndAttorney/Logos-LawAndAttorney-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Lettermark",
+                                "Subcategory_S3_Name": "Lettermark",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 96,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Lettermark/Logos-Lettermark-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Microscope",
+                                "Subcategory_S3_Name": "Microscope",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 97,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Microscope/Logos-Microscope-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Mobile Repairing",
+                                "Subcategory_S3_Name": "MobileRepairing",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 98,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/MobileRepairing/Logos-MobileRepairing-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Organic",
+                                "Subcategory_S3_Name": "Organic",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 99,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Organic/Logos-Organic-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Painting",
+                                "Subcategory_S3_Name": "Painting",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 100,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Painting/Logos-Painting-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Plumbing",
+                                "Subcategory_S3_Name": "Plumbing",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 101,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Plumbing/Logos-Plumbing-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Pregnant",
+                                "Subcategory_S3_Name": "Pregnant",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 102,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Pregnant/Logos-Pregnant-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Safari",
+                                "Subcategory_S3_Name": "Safari",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 103,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Safari/Logos-Safari-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sale",
+                                "Subcategory_S3_Name": "Sale",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 104,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Sale/Logos-Sale-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sea",
+                                "Subcategory_S3_Name": "Sea",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 105,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Sea/Logos-Sea-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Skull",
+                                "Subcategory_S3_Name": "Skull",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 106,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Skull/Logos-Skull-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Solar",
+                                "Subcategory_S3_Name": "Solar",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 107,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Solar/Logos-Solar-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sports",
+                                "Subcategory_S3_Name": "Sports",
+                                "Subcategory_Item_Count": 52,
+                                "SubCategory_Index": 108,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Sports/Logos-Sports-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sugarcane",
+                                "Subcategory_S3_Name": "Sugarcane",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 109,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Sugarcane/Logos-Sugarcane-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Textile",
+                                "Subcategory_S3_Name": "Textile",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 110,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Textile/Logos-Textile-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Thanks Giving",
+                                "Subcategory_S3_Name": "ThanksGiving",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 111,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/ThanksGiving/Logos-ThanksGiving-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Toy Shop",
+                                "Subcategory_S3_Name": "ToyShop",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 112,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/ToyShop/Logos-ToyShop-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Travel And Hotel",
+                                "Subcategory_S3_Name": "TravelAndHotel",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 113,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/TravelAndHotel/Logos-TravelAndHotel-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "TvChannel",
+                                "Subcategory_S3_Name": "TvChannel",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 114,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/TvChannel/Logos-TvChannel-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Valentines Day",
+                                "Subcategory_S3_Name": "Valentines-Day",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 115,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Valentines-Day/Logos-Valentines-Day-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Viking",
+                                "Subcategory_S3_Name": "Viking",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 116,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Viking/Logos-Viking-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Watercolor",
+                                "Subcategory_S3_Name": "Watercolor",
+                                "Subcategory_Item_Count": 50,
+                                "SubCategory_Index": 117,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Watercolor/Logos-Watercolor-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Watercolor Gaming",
+                                "Subcategory_S3_Name": "WatercolorGaming",
+                                "Subcategory_Item_Count": 55,
+                                "SubCategory_Index": 118,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/WatercolorGaming/Logos-WatercolorGaming-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Wifi",
+                                "Subcategory_S3_Name": "Wifi",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 119,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Wifi/Logos-Wifi-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Yoga",
+                                "Subcategory_S3_Name": "Yoga",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 120,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Yoga/Logos-Yoga-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Business",
+                                "Subcategory_S3_Name": "Business",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 121,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Logos/Business/Logos-Business-1.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "Category_Display_Name": "Stickers",
+                        "Category_S3_Name": "Stickers",
+                        "Category_Aspect_Ratio": "1:1",
+                        "Category_Index": 1,
+                        "Free_Templates": 3,
+                        "isDoubleSided": false,
+                        "Category_Free": false,
+                        "SubCategories": [
+                            {
+                                "Subcategory_DisplayName": "Animals",
+                                "Subcategory_S3_Name": "Animals",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 0,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Animals/Stickers-Animals-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Beach & Summer",
+                                "Subcategory_S3_Name": "Beach-&-Summer",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 1,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Beach-&-Summer/Stickers-Beach-&-Summer-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Bee",
+                                "Subcategory_S3_Name": "Bee",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 2,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Bee/Stickers-Bee-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Bird",
+                                "Subcategory_S3_Name": "Bird",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 3,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Bird/Stickers-Bird-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Birthday",
+                                "Subcategory_S3_Name": "Birthday",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 4,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Birthday/Stickers-Birthday-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "4th of july",
+                                "Subcategory_S3_Name": "4th-of-july",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 5,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/4th-of-july/Stickers-4th-of-july-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Breast Cancer Day",
+                                "Subcategory_S3_Name": "Breast-Cancer-Day",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 6,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Breast-Cancer-Day/Stickers-Breast-Cancer-Day-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Bunny",
+                                "Subcategory_S3_Name": "Bunny",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 7,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Bunny/Stickers-Bunny-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cactus",
+                                "Subcategory_S3_Name": "Cactus",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 8,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Cactus/Stickers-Cactus-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Car",
+                                "Subcategory_S3_Name": "Car",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 9,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Car/Stickers-Car-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Butterfly",
+                                "Subcategory_S3_Name": "Butterfly",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 10,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Butterfly/Stickers-Butterfly-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cat",
+                                "Subcategory_S3_Name": "Cat",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 11,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Cat/Stickers-Cat-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Christmas",
+                                "Subcategory_S3_Name": "Christmas-Day",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 12,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Christmas-Day/Stickers-Christmas-Day-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Coffee",
+                                "Subcategory_S3_Name": "Coffee",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 13,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Coffee/Stickers-Coffee-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Daisy Flower",
+                                "Subcategory_S3_Name": "Daisy-Flower",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 14,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Daisy-Flower/Stickers-Daisy-Flower-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Dog",
+                                "Subcategory_S3_Name": "Dog",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 15,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Dog/Stickers-Dog-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Dragon",
+                                "Subcategory_S3_Name": "Dragon",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 16,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Dragon/Stickers-Dragon-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Eagle",
+                                "Subcategory_S3_Name": "Eagle",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 17,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Eagle/Stickers-Eagle-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Emotions",
+                                "Subcategory_S3_Name": "Emotions",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 18,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Emotions/Stickers-Emotions-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fall",
+                                "Subcategory_S3_Name": "Fall",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 19,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Fall/Stickers-Fall-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fathers",
+                                "Subcategory_S3_Name": "Fathers-Day",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 20,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Fathers-Day/Stickers-Fathers-Day-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Flamingo",
+                                "Subcategory_S3_Name": "Flamingo",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 21,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Flamingo/Stickers-Flamingo-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Flowers",
+                                "Subcategory_S3_Name": "Flowers",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 22,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Flowers/Stickers-Flowers-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Food",
+                                "Subcategory_S3_Name": "Food",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 23,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Food/Stickers-Food-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fruits",
+                                "Subcategory_S3_Name": "Fruits",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 24,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Fruits/Stickers-Fruits-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Gnome",
+                                "Subcategory_S3_Name": "Gnome",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 25,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Gnome/Stickers-Gnome-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Helicopter",
+                                "Subcategory_S3_Name": "Helicopter",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 26,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Helicopter/Stickers-Helicopter-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Ice Cream",
+                                "Subcategory_S3_Name": "Ice-Cream",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 27,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Ice-Cream/Stickers-Ice-Cream-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Lion",
+                                "Subcategory_S3_Name": "Lion",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 28,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Lion/Stickers-Lion-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Monkey",
+                                "Subcategory_S3_Name": "Monkey",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 29,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Monkey/Stickers-Monkey-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Mothers",
+                                "Subcategory_S3_Name": "Mothers-Day",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 30,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Mothers-Day/Stickers-Mothers-Day-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Pandas",
+                                "Subcategory_S3_Name": "Pandas",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 31,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Pandas/Stickers-Pandas-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Pig",
+                                "Subcategory_S3_Name": "Pig",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 32,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Pig/Stickers-Pig-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Reindeer",
+                                "Subcategory_S3_Name": "Reindeer",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 33,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Reindeer/Stickers-Reindeer-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sloth",
+                                "Subcategory_S3_Name": "Sloth",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 34,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Sloth/Stickers-Sloth-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Snowman",
+                                "Subcategory_S3_Name": "Snowman",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 35,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Snowman/Stickers-Snowman-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sports",
+                                "Subcategory_S3_Name": "Sports",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 36,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Sports/Stickers-Sports-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Tiger",
+                                "Subcategory_S3_Name": "Tiger",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 37,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Tiger/Stickers-Tiger-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Ufo",
+                                "Subcategory_S3_Name": "Ufo",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 38,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Ufo/Stickers-Ufo-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Vegetable",
+                                "Subcategory_S3_Name": "Vegetable",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 39,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Vegetable/Stickers-Vegetable-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Weather",
+                                "Subcategory_S3_Name": "Weather",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 40,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Weather/Stickers-Weather-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Zombies",
+                                "Subcategory_S3_Name": "Zombies",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 41,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Zombies/Stickers-Zombies-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Black Friday",
+                                "Subcategory_S3_Name": "Black-Friday",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 42,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Stickers/Black-Friday/Stickers-Black-Friday-1.png"
+                            }
+                        ]
+                    },
+                    {
+                        "Category_Display_Name": "Shapes",
+                        "Category_S3_Name": "Shapes",
+                        "Category_Aspect_Ratio": "1:1",
+                        "Category_Index": 2,
+                        "Free_Templates": 3,
+                        "isDoubleSided": false,
+                        "Category_Free": false,
+                        "SubCategories": [
+                            {
+                                "Subcategory_DisplayName": "Basics",
+                                "Subcategory_S3_Name": "Basics",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 0,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Basics/Shapes-Basics-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Lines",
+                                "Subcategory_S3_Name": "Lines",
+                                "Subcategory_Item_Count": 20,
+                                "SubCategory_Index": 1,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Lines/Shapes-Lines-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Butterfly",
+                                "Subcategory_S3_Name": "Butterfly",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 2,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Butterfly/Shapes-Butterfly-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Candles",
+                                "Subcategory_S3_Name": "Candles",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 3,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Candles/Shapes-Candles-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cat",
+                                "Subcategory_S3_Name": "Cat",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 4,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Cat/Shapes-Cat-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Baby",
+                                "Subcategory_S3_Name": "Baby",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 5,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Baby/Shapes-Baby-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cloud",
+                                "Subcategory_S3_Name": "Cloud",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 6,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Cloud/Shapes-Cloud-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Communication",
+                                "Subcategory_S3_Name": "Communication",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 7,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Communication/Shapes-Communication-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cosmetics",
+                                "Subcategory_S3_Name": "Cosmetics",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 8,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Cosmetics/Shapes-Cosmetics-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Dinosaur",
+                                "Subcategory_S3_Name": "Dinosaur",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 9,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Dinosaur/Shapes-Dinosaur-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Dog",
+                                "Subcategory_S3_Name": "Dog",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 10,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Dog/Shapes-Dog-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Doodles",
+                                "Subcategory_S3_Name": "Doodles",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 11,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Doodles/Shapes-Doodles-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Earrings",
+                                "Subcategory_S3_Name": "Earrings",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 12,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Earrings/Shapes-Earrings-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Emojis",
+                                "Subcategory_S3_Name": "Emojis",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 13,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Emojis/Shapes-Emojis-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Eyes",
+                                "Subcategory_S3_Name": "Eyes",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 14,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Eyes/Shapes-Eyes-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Family Farm",
+                                "Subcategory_S3_Name": "Family-Farm",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 15,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Family-Farm/Shapes-Family-Farm-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fashion",
+                                "Subcategory_S3_Name": "Fashion",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 16,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Fashion/Shapes-Fashion-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Flame",
+                                "Subcategory_S3_Name": "Flame",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 17,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Flame/Shapes-Flame-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Flowers",
+                                "Subcategory_S3_Name": "Flowers",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 18,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Flowers/Shapes-Flowers-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Food",
+                                "Subcategory_S3_Name": "Food",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 19,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Food/Shapes-Food-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Gym",
+                                "Subcategory_S3_Name": "Gym",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 20,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Gym/Shapes-Gym-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hackers",
+                                "Subcategory_S3_Name": "Hackers",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 21,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Hackers/Shapes-Hackers-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hand",
+                                "Subcategory_S3_Name": "Hand",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 22,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Hand/Shapes-Hand-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hats",
+                                "Subcategory_S3_Name": "Hats",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 23,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Hats/Shapes-Hats-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hearts",
+                                "Subcategory_S3_Name": "Hearts",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 24,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Hearts/Shapes-Hearts-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Honey Bee",
+                                "Subcategory_S3_Name": "Honey-Bee",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 25,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Honey-Bee/Shapes-Honey-Bee-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hospital",
+                                "Subcategory_S3_Name": "Hospital",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 26,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Hospital/Shapes-Hospital-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Husband And Wife",
+                                "Subcategory_S3_Name": "Husband-And-Wife",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 27,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Husband-And-Wife/Shapes-Husband-And-Wife-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Bear",
+                                "Subcategory_S3_Name": "Bear",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 28,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Bear/Shapes-Bear-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Lips",
+                                "Subcategory_S3_Name": "Lips",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 29,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Lips/Shapes-Lips-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Mask",
+                                "Subcategory_S3_Name": "Mask",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 30,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Mask/Shapes-Mask-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Shields",
+                                "Subcategory_S3_Name": "Shields",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 31,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Shields/Shapes-Shields-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Skull",
+                                "Subcategory_S3_Name": "Skull",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 32,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Skull/Shapes-Skull-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Social Media Icons",
+                                "Subcategory_S3_Name": "Social-Media-Icons",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 33,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Social-Media-Icons/Shapes-Social-Media-Icons-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sports",
+                                "Subcategory_S3_Name": "Sports",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 34,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Sports/Shapes-Sports-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Wedding",
+                                "Subcategory_S3_Name": "Wedding",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 35,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Wedding/Shapes-Wedding-1.png"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Witch",
+                                "Subcategory_S3_Name": "Witch",
+                                "Subcategory_Item_Count": 15,
+                                "SubCategory_Index": 36,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Shapes/Witch/Shapes-Witch-1.png"
+                            }
+                        ]
+                    },
+                    {
+                        "Category_Display_Name": "Flyers",
+                        "Category_S3_Name": "Flyers",
+                        "Category_Aspect_Ratio": "1000:1414",
+                        "Category_Index": 3,
+                        "Free_Templates": 3,
+                        "isDoubleSided": false,
+                        "Category_Color": [
+                            "#C3E348",
+                            "#41BB80"
+                        ],
+                        "Category_Free": false,
+                        "SubCategories": [
+                            {
+                                "Subcategory_DisplayName": "Baby Shower",
+                                "Subcategory_S3_Name": "BabyShower",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 0,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/BabyShower/Flyers-BabyShower-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Black Friday",
+                                "Subcategory_S3_Name": "BlackFriday",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 1,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/BlackFriday/Flyers-BlackFriday-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Christmas",
+                                "Subcategory_S3_Name": "Christmas",
+                                "Subcategory_Item_Count": 40,
+                                "SubCategory_Index": 2,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Christmas/Flyers-Christmas-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Earth Day",
+                                "Subcategory_S3_Name": "EarthDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 3,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/EarthDay/Flyers-EarthDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Easter Day",
+                                "Subcategory_S3_Name": "Easter",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 4,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Easter/Flyers-Easter-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fathers Day",
+                                "Subcategory_S3_Name": "FathersDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 5,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/FathersDay/Flyers-FathersDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Halloween",
+                                "Subcategory_S3_Name": "Halloween",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 6,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Halloween/Flyers-Halloween-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Holi",
+                                "Subcategory_S3_Name": "Holi",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 7,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Holi/Flyers-Holi-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "International Womens Day",
+                                "Subcategory_S3_Name": "InternationalWomensDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 8,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/InternationalWomensDay/Flyers-InternationalWomensDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Labour Day",
+                                "Subcategory_S3_Name": "LabourDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 9,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/LabourDay/Flyers-LabourDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Mothers Day",
+                                "Subcategory_S3_Name": "MothersDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 10,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/MothersDay/Flyers-MothersDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "New Year",
+                                "Subcategory_S3_Name": "NewYear",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 11,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/NewYear/Flyers-NewYear-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Save The Date",
+                                "Subcategory_S3_Name": "SaveTheDate",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 12,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/SaveTheDate/Flyers-SaveTheDate-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Valentine Day",
+                                "Subcategory_S3_Name": "ValentineDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 13,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/ValentineDay/Flyers-ValentineDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "World Cancer Day",
+                                "Subcategory_S3_Name": "WorldCancerDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 14,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/WorldCancerDay/Flyers-WorldCancerDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "World Health Day",
+                                "Subcategory_S3_Name": "WorldHealthDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 15,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/WorldHealthDay/Flyers-WorldHealthDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Automotive",
+                                "Subcategory_S3_Name": "Automotive",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 16,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Automotive/Flyers-Automotive-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fashion",
+                                "Subcategory_S3_Name": "Fashion",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 17,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Fashion/Flyers-Fashion-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Food",
+                                "Subcategory_S3_Name": "Food",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 18,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Food/Flyers-Food-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Music",
+                                "Subcategory_S3_Name": "Music",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 19,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Music/Flyers-Music-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Pet And Animal",
+                                "Subcategory_S3_Name": "PetAndAnimal",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 20,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/PetAndAnimal/Flyers-PetAndAnimal-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Photography",
+                                "Subcategory_S3_Name": "Photography",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 21,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Photography/Flyers-Photography-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Physical Fitness",
+                                "Subcategory_S3_Name": "PhysicalFitness",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 22,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/PhysicalFitness/Flyers-PhysicalFitness-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sports",
+                                "Subcategory_S3_Name": "Sports",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 23,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Sports/Flyers-Sports-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Travel",
+                                "Subcategory_S3_Name": "Travel",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 24,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Flyers/Travel/Flyers-Travel-1.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "Category_Display_Name": "Posters",
+                        "Category_S3_Name": "Posters",
+                        "Category_Aspect_Ratio": "1571:2000",
+                        "Category_Index": 4,
+                        "Free_Templates": 3,
+                        "isDoubleSided": false,
+                        "Category_Color": [
+                            "#96DCFF",
+                            "#1B86FF"
+                        ],
+                        "Category_Free": false,
+                        "SubCategories": [
+                            {
+                                "Subcategory_DisplayName": "Automotive",
+                                "Subcategory_S3_Name": "Automotive",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 0,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Automotive/Posters-Automotive-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Business",
+                                "Subcategory_S3_Name": "Business",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 1,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Business/Posters-Business-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Health Care",
+                                "Subcategory_S3_Name": "HealthCare",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 2,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/HealthCare/Posters-HealthCare-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Movies",
+                                "Subcategory_S3_Name": "Movies",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 3,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Movies/Posters-Movies-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Hiring",
+                                "Subcategory_S3_Name": "Hiring",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 4,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Hiring/Posters-Hiring-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fashion",
+                                "Subcategory_S3_Name": "Fashion",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 5,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Fashion/Posters-Fashion-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fitness",
+                                "Subcategory_S3_Name": "Fitness",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 6,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Fitness/Posters-Fitness-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Food",
+                                "Subcategory_S3_Name": "Food",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 7,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Food/Posters-Food-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Music",
+                                "Subcategory_S3_Name": "Music",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 8,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Music/Posters-Music-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Party",
+                                "Subcategory_S3_Name": "Party",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 9,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Party/Posters-Party-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Political",
+                                "Subcategory_S3_Name": "Political",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 10,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Political/Posters-Political-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Real Estate",
+                                "Subcategory_S3_Name": "RealEstate",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 11,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/RealEstate/Posters-RealEstate-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sale",
+                                "Subcategory_S3_Name": "Sale",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 12,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Sale/Posters-Sale-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Sports",
+                                "Subcategory_S3_Name": "Sports",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 13,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Sports/Posters-Sports-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Travel",
+                                "Subcategory_S3_Name": "Travel",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 14,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Travel/Posters-Travel-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Anniversary",
+                                "Subcategory_S3_Name": "Anniversary",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 15,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Anniversary/Posters-Anniversary-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Charity",
+                                "Subcategory_S3_Name": "Charity",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 16,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Charity/Posters-Charity-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Education",
+                                "Subcategory_S3_Name": "Education",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 17,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Education/Posters-Education-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Interior",
+                                "Subcategory_S3_Name": "Interior",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 18,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Interior/Posters-Interior-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Photography",
+                                "Subcategory_S3_Name": "Photography",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 19,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Posters/Photography/Posters-Photography-1.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "Category_Display_Name": "Business Cards",
+                        "Category_S3_Name": "BusinessCard",
+                        "Category_Aspect_Ratio": "1004:591",
+                        "Category_Index": 5,
+                        "Free_Templates": 3,
+                        "isDoubleSided": true,
+                        "Category_Color": [
+                            "#814EFC",
+                            "#5065FC"
+                        ],
+                        "Category_Free": false,
+                        "SubCategories": [
+                            {
+                                "Subcategory_DisplayName": "Photography",
+                                "Subcategory_S3_Name": "Photography",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 0,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Photography/BusinessCard-Photography-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Restaurants",
+                                "Subcategory_S3_Name": "Restaurants",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 1,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Restaurants/BusinessCard-Restaurants-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Spa Therapists",
+                                "Subcategory_S3_Name": "SpaTherapists",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 2,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/SpaTherapists/BusinessCard-SpaTherapists-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Travel",
+                                "Subcategory_S3_Name": "Travel",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 3,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Travel/BusinessCard-Travel-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Real Estate",
+                                "Subcategory_S3_Name": "RealEstate",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 4,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/RealEstate/BusinessCard-RealEstate-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Automotive",
+                                "Subcategory_S3_Name": "Automotive",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 5,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Automotive/BusinessCard-Automotive-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Business",
+                                "Subcategory_S3_Name": "Business",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 6,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Business/BusinessCard-Business-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Djs",
+                                "Subcategory_S3_Name": "Djs",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 7,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Djs/BusinessCard-Djs-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Education",
+                                "Subcategory_S3_Name": "Education",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 8,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Education/BusinessCard-Education-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fitness Trainers",
+                                "Subcategory_S3_Name": "FitnessTrainers",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 9,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/FitnessTrainers/BusinessCard-FitnessTrainers-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Health Care",
+                                "Subcategory_S3_Name": "HealthCare",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 10,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/HealthCare/BusinessCard-HealthCare-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Insurance Agents",
+                                "Subcategory_S3_Name": "InsuranceAgents",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 11,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/InsuranceAgents/BusinessCard-InsuranceAgents-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "IT",
+                                "Subcategory_S3_Name": "IT",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 12,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/IT/BusinessCard-IT-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Lawyer",
+                                "Subcategory_S3_Name": "Lawyer",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 13,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Lawyer/BusinessCard-Lawyer-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Wedding",
+                                "Subcategory_S3_Name": "Wedding",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 14,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/Wedding/BusinessCard-Wedding-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Beauty And Salon",
+                                "Subcategory_S3_Name": "BeautyAndSalon",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 15,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/BeautyAndSalon/BusinessCard-BeautyAndSalon-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Cleaning Services",
+                                "Subcategory_S3_Name": "CleaningServices",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 16,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/CleaningServices/BusinessCard-CleaningServices-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Event Planners",
+                                "Subcategory_S3_Name": "EventPlanners",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 17,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/EventPlanners/BusinessCard-EventPlanners-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Finance And Accounting",
+                                "Subcategory_S3_Name": "FinanceAndAccounting",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 18,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/FinanceAndAccounting/BusinessCard-FinanceAndAccounting-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Pet Services",
+                                "Subcategory_S3_Name": "PetServices",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 19,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/BusinessCard/PetServices/BusinessCard-PetServices-1.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "Category_Display_Name": "Invitations",
+                        "Category_S3_Name": "Invitations",
+                        "Category_Aspect_Ratio": "1240:1748",
+                        "Category_Index": 6,
+                        "Free_Templates": 3,
+                        "isDoubleSided": false,
+                        "Category_Color": [
+                            "#AF4CFA",
+                            "#F84DD2"
+                        ],
+                        "Category_Free": false,
+                        "SubCategories": [
+                            {
+                                "Subcategory_DisplayName": "Anniversary",
+                                "Subcategory_S3_Name": "Anniversary",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 0,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Anniversary/Invitations-Anniversary-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Annual Dinner",
+                                "Subcategory_S3_Name": "AnnualDinner",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 1,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/AnnualDinner/Invitations-AnnualDinner-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Baby Shower",
+                                "Subcategory_S3_Name": "BabyShower",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 2,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/BabyShower/Invitations-BabyShower-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Birthday",
+                                "Subcategory_S3_Name": "Birthday",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 3,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Birthday/Invitations-Birthday-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Bridal Shower",
+                                "Subcategory_S3_Name": "BridalShower",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 4,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/BridalShower/Invitations-BridalShower-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Christmas",
+                                "Subcategory_S3_Name": "Christmas",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 5,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Christmas/Invitations-Christmas-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Conference",
+                                "Subcategory_S3_Name": "Conference",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 6,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Conference/Invitations-Conference-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Engagement",
+                                "Subcategory_S3_Name": "Engagement",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 7,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Engagement/Invitations-Engagement-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Farewell",
+                                "Subcategory_S3_Name": "Farewell",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 8,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Farewell/Invitations-Farewell-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Graduation",
+                                "Subcategory_S3_Name": "Graduation",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 9,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Graduation/Invitations-Graduation-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Halloween",
+                                "Subcategory_S3_Name": "Halloween",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 10,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Halloween/Invitations-Halloween-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Housewarming",
+                                "Subcategory_S3_Name": "Housewarming",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 11,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Housewarming/Invitations-Housewarming-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Party",
+                                "Subcategory_S3_Name": "Party",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 12,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Party/Invitations-Party-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "New Year",
+                                "Subcategory_S3_Name": "NewYear",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 13,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/NewYear/Invitations-NewYear-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Wedding",
+                                "Subcategory_S3_Name": "Wedding",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 14,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Wedding/Invitations-Wedding-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Easter",
+                                "Subcategory_S3_Name": "Easter",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 15,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Easter/Invitations-Easter-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Education",
+                                "Subcategory_S3_Name": "Education",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 16,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Education/Invitations-Education-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fathers Day",
+                                "Subcategory_S3_Name": "FathersDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 17,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/FathersDay/Invitations-FathersDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Fitness",
+                                "Subcategory_S3_Name": "Fitness",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 18,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Fitness/Invitations-Fitness-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Health Care",
+                                "Subcategory_S3_Name": "Healthcare",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 19,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Healthcare/Invitations-Healthcare-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Mothers Day",
+                                "Subcategory_S3_Name": "MothersDay",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 20,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/MothersDay/Invitations-MothersDay-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Real Estate",
+                                "Subcategory_S3_Name": "RealEstate",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 21,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/RealEstate/Invitations-RealEstate-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Thanks Giving",
+                                "Subcategory_S3_Name": "ThanksGiving",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 22,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/ThanksGiving/Invitations-ThanksGiving-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Travel",
+                                "Subcategory_S3_Name": "Travel",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 23,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Travel/Invitations-Travel-1.jpg"
+                            },
+                            {
+                                "Subcategory_DisplayName": "Workshop",
+                                "Subcategory_S3_Name": "Workshop",
+                                "Subcategory_Item_Count": 30,
+                                "SubCategory_Index": 24,
+                                "isNew": false,
+                                "Subcategory_Free_Templates": 0,
+                                "Subcategory_Free": false,
+                                "Subcategory_Thumbnail_URL": "https://logomakerapple.s3.us-east-2.amazonaws.com/data/Thumbnails/Invitations/Workshop/Invitations-Workshop-1.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
